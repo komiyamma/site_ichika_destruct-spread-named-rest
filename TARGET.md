@@ -1,5 +1,5 @@
 - 学習者: JavaScript学習5ヶ月目、初学言語の女子大生
-- 直前教材: `previous_lesson`（運動トラッカー / DOM・localStorage・基本文法）
+- 直前教材: `previous1`や`previous2`（運動トラッカー / DOM・localStorage・基本文法）
 - 既習: `try...catch...finally` / アロー関数
 - 学習形態: YouTubeライブ配信（教材自体が画面に映る）
 - 配信環境: VS Code + Live Server が基本
