@@ -2,10 +2,14 @@
 
 この全８章で構成する内容は、 
 
-sin-colors さん作の、 <a href="https://github.com/IchikaCoding/daily-class-challenge/issues/2#issue-3501470060">分割代入とは</a> や、<br>
-unow-dev さん作の、<a href="https://github.com/IchikaCoding/daily-class-challenge/issues/3">Reactでも重要な「分割束縛」と「分割代入」：最小サンプルで理解</a> を理解するための道筋です。
+Reactでも重要な
 
-初心者向きに 躓かないように、 Step by Step で包括的に解説されています。
+- 分割代入
+- スプレッド
+- 名前付き引数
+- 残余引数
+
+を、初心者向きに 躓かないように、 Step by Step で包括的に解説されています。
 
 
 初心者が「分割代入」や「...(３点など）」で躓きやすい最大の理由は、<br>
